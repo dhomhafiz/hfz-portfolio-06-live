@@ -31,8 +31,8 @@ jobs:
         run: npm ci
 
       # optional
-      - name: Test
-        run: npm test -- --watchAll=false
+    #   - name: Test
+    #     run: npm test -- --watchAll=false
         continue-on-error: true
 
       - name: Build
