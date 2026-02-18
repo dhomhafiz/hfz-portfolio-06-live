@@ -84,3 +84,7 @@ You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/)
 4. **Access Your Deployed App**
 
     After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
+
+## Deployment Status
+
+![Deploy Status](https://github.com/dhomhafiz/hfz-portfolio-06-live/actions/workflows/deploy-pages.yml/badge.svg?branch=main)
