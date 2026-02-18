@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hfz-portfolio-06-live/static/css/main.c503699f.css",
-    "main.js": "/hfz-portfolio-06-live/static/js/main.ab3c80a1.js",
+    "main.js": "/hfz-portfolio-06-live/static/js/main.9e6a772f.js",
     "static/js/453.b05d8aa5.chunk.js": "/hfz-portfolio-06-live/static/js/453.b05d8aa5.chunk.js",
     "static/media/coding_sc2.png": "/hfz-portfolio-06-live/static/media/coding_sc2.3bb152053ca4ce234ce5.png",
     "static/media/coding_sc_light.jpg": "/hfz-portfolio-06-live/static/media/coding_sc_light.e272c20411e67cd11e6a.jpg",
@@ -9,11 +9,11 @@
     "static/media/netflx_sg_mrt.png": "/hfz-portfolio-06-live/static/media/netflx_sg_mrt.7c87c4c3e4bc1c461951.png",
     "index.html": "/hfz-portfolio-06-live/index.html",
     "main.c503699f.css.map": "/hfz-portfolio-06-live/static/css/main.c503699f.css.map",
-    "main.ab3c80a1.js.map": "/hfz-portfolio-06-live/static/js/main.ab3c80a1.js.map",
+    "main.9e6a772f.js.map": "/hfz-portfolio-06-live/static/js/main.9e6a772f.js.map",
     "453.b05d8aa5.chunk.js.map": "/hfz-portfolio-06-live/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c503699f.css",
-    "static/js/main.ab3c80a1.js"
+    "static/js/main.9e6a772f.js"
   ]
 }
