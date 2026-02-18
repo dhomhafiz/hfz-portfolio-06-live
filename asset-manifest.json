@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hfz-portfolio-06-live/static/css/main.c503699f.css",
+    "main.js": "/hfz-portfolio-06-live/static/js/main.70400c48.js",
+    "static/js/453.b05d8aa5.chunk.js": "/hfz-portfolio-06-live/static/js/453.b05d8aa5.chunk.js",
+    "static/media/coding_sc2.png": "/hfz-portfolio-06-live/static/media/coding_sc2.3bb152053ca4ce234ce5.png",
+    "static/media/coding_sc_light.jpg": "/hfz-portfolio-06-live/static/media/coding_sc_light.e272c20411e67cd11e6a.jpg",
+    "static/media/hfz-fisheye2.png": "/hfz-portfolio-06-live/static/media/hfz-fisheye2.5d645788838fede49d13.png",
+    "static/media/netflx_sg_mrt.png": "/hfz-portfolio-06-live/static/media/netflx_sg_mrt.7c87c4c3e4bc1c461951.png",
+    "index.html": "/hfz-portfolio-06-live/index.html",
+    "main.c503699f.css.map": "/hfz-portfolio-06-live/static/css/main.c503699f.css.map",
+    "main.70400c48.js.map": "/hfz-portfolio-06-live/static/js/main.70400c48.js.map",
+    "453.b05d8aa5.chunk.js.map": "/hfz-portfolio-06-live/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c503699f.css",
+    "static/js/main.70400c48.js"
+  ]
+}
