@@ -17,8 +17,8 @@ function Main() {
             <a href="https://github.com/dhomhafiz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/mohd-hafiz-abd-rahim-b23a9667/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Mohd Hafiz Abd Rahim</h1>
-          <p>Full Stack Developer</p>
+          <h1 className="hero-title">MOHD HAFIZ ABD RAHIM</h1>
+          <p className="hero-title">Full Stack Developer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/dhomhafiz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
